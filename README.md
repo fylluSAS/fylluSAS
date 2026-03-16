@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Fyllu;Estandarizando+el+comercio+conversacional;para+PYMES+de+LATAM" alt="Fyllu" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Fyllu+%E2%80%94+Commerce+Engine;Estandarizando+el+comercio+conversacional+en+LATAM" alt="Fyllu" />
 </p>
 
 <p align="center">
