@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Fyllu+%E2%80%94+Commerce+Engine;Comercio+conversacional+para+LATAM" alt="Fyllu" />
 </p>
+<p align="center">  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Tech Animation"/></p>
 
 <p align="center">
   <strong>Amazon estandarizó la logística. Stripe estandarizó los pagos.</strong><br/>
